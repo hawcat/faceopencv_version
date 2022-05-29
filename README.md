@@ -1,0 +1,2 @@
+# faceopencv_version
+开源opencv版本的带GUI的人脸识别系统
